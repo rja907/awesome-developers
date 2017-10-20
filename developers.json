@@ -7,6 +7,14 @@
 		"github": "LazarusPolar",
 		"email": "jalmarazgon@gmail.com"
 	},
+  {
+		"name": "Raj Shekhar Kumar",
+		"company": "CS Undergrad from NIT Delhi",
+		"skills": ["Java", "jQuery", "Bootstrap", "HTML", "JavaScript", "CSS"],
+		"city": "Delhi, India",
+		"github": "rja907",
+		"email": "kmrrajj@gmail.com@gmail.com"
+	},
     {
 		"name": "Jigar wala",
 		"company": "Student at K. J. Somaiya College Of Engineering",
